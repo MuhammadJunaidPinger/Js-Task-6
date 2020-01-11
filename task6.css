@@ -1,0 +1,24 @@
+#pic1 {
+width: 150px;
+height: 150px;
+padding-left: 100px;
+}
+
+.mobileImgs {
+    margin: 25px;
+    padding: 25px;
+    border: 1px solid;
+    width: 135px;
+    height: 250px;
+}
+.mobContenet{
+    margin: 35px;
+    padding: 40px;
+    color: blue;
+}
+
+.makeBigImg {
+    width: 10%;
+    margin: 25px;
+    padding: 25px;
+}
